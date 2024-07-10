@@ -6,7 +6,7 @@
 
 Soy un desarrollador apasionado por la tecnología y el código. Me encanta aprender cosas nuevas y compartir mis conocimientos con la comunidad.
 
-## 💻 My Tech Stack:
+## 💻 Mi Stack Tecnológico:
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>
@@ -18,13 +18,13 @@ Soy un desarrollador apasionado por la tecnología y el código. Me encanta apre
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-## 📈 My Stats:
+## 📈 Mis Estadísticas:
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeisonBM&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeisonBM&layout=compact&theme=radical"/>
 </p>
 
-## 💬 About Me:
+## 💬 Sobre Mí:
 - 🌍 Soy de [Tu País]
 - 🔭 Actualmente estoy trabajando en [Tu Proyecto/Trabajo Actual]
 - 🌱 Estoy aprendiendo **TypeScript**, **GraphQL**, **Kubernetes**
@@ -32,12 +32,12 @@ Soy un desarrollador apasionado por la tecnología y el código. Me encanta apre
 - 📫 Cómo contactarme: [Email](mailto:tu-email@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tu-perfil) | [Twitter](https://twitter.com/tu-usuario)
 - ⚡ Dato curioso: [Dato curioso sobre ti]
 
-## 🏆 Achievements:
+## 🏆 Logros:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DeisonBM&theme=darkhub"/>
 </p>
 
-## ✍️ Quote:
+## ✍️ Frase:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
