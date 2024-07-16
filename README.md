@@ -25,8 +25,8 @@ Soy un desarrollador apasionado por la tecnología y el código. Me encanta apre
 </p>
 
 ## 💬 Sobre Mí:
-- 🌍 Soy de [Tu País]
-- 🔭 Actualmente estoy trabajando en [Tu Proyecto/Trabajo Actual]
+- 🌍 Soy de Colombia
+- 🔭 Actualmente estoy trabajando en ...
 - 🌱 Estoy aprendiendo **TypeScript**, **GraphQL**, **Kubernetes**
 - 💬 Pregúntame sobre **Desarrollo Web**, **JavaScript**, **React**, **Node.js**
 - 📫 Cómo contactarme: [Email](mailto:tu-email@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tu-perfil) | [Twitter](https://twitter.com/tu-usuario)
