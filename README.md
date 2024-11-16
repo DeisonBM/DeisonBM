@@ -1,5 +1,3 @@
-![Banner](https://your-banner-url.com/banner.png)
-
 # Hola, soy DeisonBM 👋
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DeisonBM&color=brightgreen)
